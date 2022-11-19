@@ -1,0 +1,8 @@
+{
+  "username":"qa",
+  "email":"test@test.com",
+  "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJxYSIsImV4cCI6MTY3NDAzMDQ0NSwiaWF0IjoxNjY4ODQ2NDQ1fQ.HWhI5s0pVuV7WZMRH9vPcj4LJ_4I9ejiw5WrYAxRkuA",
+  "bio":null,
+  "image":null,
+  "effectiveImage":"https://static.productionready.io/images/smiley-cyrus.jpg"
+}
